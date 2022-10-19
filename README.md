@@ -5,4 +5,4 @@ Script para consultas masivas de cédulas ecuatorianas para verificar deudas en 
 
 ![CntChek](https://user-images.githubusercontent.com/114892766/196821655-114c2acf-dd56-4404-a440-21b997e8aa84.png)
 
-Programita para verificación masiva de cedulas ecuatorianas en cnt.
+
